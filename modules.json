@@ -1,0 +1,35 @@
+[
+  {
+    "module_slug": "config"
+  },
+  {
+    "module_code": "plt6_1",
+    "module_label": "PLT.6.1 - Event Capture",
+    "module_title": "Event Capture",
+    "module_slug": "event_capture",
+    "app_code": "plt6",
+    "app_label": "PLT 6 - Event Processing Engine",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt6_2",
+    "module_label": "PLT.6.2 - Event Filtering & Routing",
+    "module_title": "Event Filtering & Routing",
+    "module_slug": "event_filtering_and_routing",
+    "app_code": "plt6",
+    "app_label": "PLT 6 - Event Processing Engine",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt6_3",
+    "module_label": "PLT.6.3 - Event Processing Logging",
+    "module_title": "Event Processing Logging",
+    "module_slug": "event_processing_logging",
+    "app_code": "plt6",
+    "app_label": "PLT 6 - Event Processing Engine",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
